@@ -1,24 +1,20 @@
-# routerguia
+# 🔮 Router Guia Vue.JS
 
-## Project setup
-```
-npm install
-```
+Projeto realizado para fins de estudos práticos e introdutórios sobre o framework Vue usando o Vue Router.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🛠 Tecnologias Utilizadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Visual Studio Code
+- Vue Router
+- Vue
+- Javascript
+- HTML
+- CSS
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 🔄 Roter View
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+É um componente responsável por renderizar os conteúdos de rotas dentro dele.
+
+### Router Link
+
+Este componente funciona como o "href". Ele é feito para ser usado em conjunto com o  Vue Router.
